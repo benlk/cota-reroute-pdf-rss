@@ -1,10 +1,10 @@
 name: GitHub Actions Demo
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+run-name: "Building the "
 on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: '0 12 * * *' # every day at noon
+    - cron: '0 12 * * *' # every day at noon, in whatever timezone Github uses
 jobs:
   Download-and-Make:
     runs-on: ubuntu-latest
@@ -16,9 +16,19 @@ jobs:
       - run: mkdir -p build/
       - name: Fetch latest data from the API endpoint
         run: |-
-          curl -s "https://author.cota.com/wp-json/acf/v2/options/" | jq '.' > build/acf-options.json
-      - uses: actions/upload-artifact@v3
+          bash ./scraper.bash
+      - name: Parse scrape and update JSON
+        run: |-
+          bash ./parse.bash
+      - name: "Save files"
+        uses: actions/upload-artifact@v3
         with:
           name: acf-options.json
           path: build/acf-options.json
+      - name: "Preserve php errors"
+        uses: actions/upload-artifact@v3
+        if: failure()
+        with:
+          name: php-error.log
+          path: ./php-error.log
 
