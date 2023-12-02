@@ -19,7 +19,7 @@ jobs:
           bash ./scraper.bash
       - name: Parse scrape and update JSON
         run: |-
-          php ./parse.php
+          php ./parser.php
       - name: Generate RSS feed
         run: |-
           php ./rss.php > rss.xml
