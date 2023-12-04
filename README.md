@@ -6,14 +6,18 @@
 
 ## What
 
+![Screenshot of the banner seen at the top of cota.com. This banner advertises the December 2 Holiday Hop reroutes.](./banner.png)
+
 An RSS feed of whenever COTA posts a new alert box in the header of [COTA.com](https://cota.com/). This is most-often used for notice of reroutes.
 
 This feed updates once per day. If you need more-timely updates than that, I'm sorry.
 
-This feed contains:
+This feed contains the following information, using [the screenshoted alert](https://web.archive.org/web/20231202002042/https://www.cota.com/) as an example:
 
-- The alert's title and description
-- The link from the alert
+- The alert's header — `REROUTES AHEAD`
+- The alert's description — `Dec. 2 | Holiday Hop`
+- The link title — `LEARN MORE`
+- The link url — `https://www.cota.com/reroutes/cota-reroutes-holiday-hop-231202.pdf`
 - The date of the scrape that generated this alert
 
 This feed does not contain:
