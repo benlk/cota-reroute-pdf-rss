@@ -39,6 +39,10 @@ COTA also sometimes posts a notice [via their GTFS feed](https://cota.com/data/)
 
 I don't want to manually check the COTA website every day; I want to receive notifications in the tools that I habitually use. So I wrote this scraper to make an RSS feed.
 
+## Common issues
+
+GitHub serves the RSS feed with the incorrect [`Content-Type` header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type) of `text/html`. If this causes problems for your feedreader, consult your feedreader's documentation. FreshRSS supports adding a `#force_feed` to the end of the feed URL to force the software to interpret the file as `application/rss+xml`.
+
 ## How & Credits
 
 This project scrapes and archives the contents of the "Alerts" box which is intermittently present in the header of COTA.com. [COTA.com is a Gatsby app](https://whatcms.org/?s=cota.com), and that header is baked in directly. While examining the site's source code one day, I discovered a reference to the WordPress site which powers the Gatsby app. From there, I examined the read-only side of its WP-JSON API, and discovered that the "Alerts" box appears to be powered by the Advanced Custom Fields plugin for WordPress. So rather than scraping the COTA.com Gatsby app directly, I check the ACF endpoint to see if there's a new Alert posted.
