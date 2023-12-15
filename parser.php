@@ -65,6 +65,10 @@ function iterate( $json_handle, $csv_handle ) {
 
     error_log( var_export( $csv_contents, true ));
 
+    if ( empty( $alerts ) ) {
+        return;
+    }
+
     foreach ( $alerts as $alert ) {
         error_log( var_export( $alert, true ) );
 

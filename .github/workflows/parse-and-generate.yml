@@ -33,7 +33,10 @@ jobs:
         if: failure()
         with:
           name: php-error.log
-          path: ./php-error.log
+          path: |
+            ./php-error.log
+            ./alerts-log.csv
+            ./build/*
       - name: Commit and push if the data has changed
         run: |-
           git config user.name "Automated"
