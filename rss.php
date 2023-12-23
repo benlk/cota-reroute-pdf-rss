@@ -44,7 +44,7 @@ function iterate( $handle ) {
 			continue;
 		}
 
-		// var_dump( $data );
+		error_log( var_export( $data, true ) );
 		/*
 		 * 0 header
 		 * 1 description
@@ -53,8 +53,12 @@ function iterate( $handle ) {
 		 * 4 link_target
 		 * 5 time timestamp that this was added to the scrape CSV
 		 */
-		$title = escape( $data[0] . ': ' . $data[1] );
-		$link  = escape( $data[3] );
+		$title = escape( sprintf(
+			'%1$s: %2$s',
+			$data[0] ?? '',
+			$data[1] ?? ''
+		) );
+		$link  = escape( $data[3] ?? '' );
 
 		$description  = '';
 		$description .= sprintf(
