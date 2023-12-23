@@ -54,7 +54,7 @@ function iterate( $handle ) {
 		 * 5 time timestamp that this was added to the scrape CSV
 		 */
 		$title = escape( sprintf(
-			"%1$s: %2$s",
+			'%1$s: %2$s',
 			$data[0] ?? '',
 			$data[1] ?? ''
 		) );
