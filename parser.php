@@ -73,23 +73,23 @@ function iterate( $json_handle, $csv_handle ) {
         error_log( var_export( $alert, true ) );
 
         $new_entry = [];
-        $new_entry['header']      = $alert['header'];
-        $new_entry['description'] = $alert['description'];
-        $new_entry['link_title']  = $alert['link']['title'];
-        $new_entry['link_url']    = $alert['link']['url'];
-        $new_entry['link_target'] = $alert['link']['target'];
+        $new_entry['header']      = $alert['header'] ?? '';
+        $new_entry['description'] = $alert['description'] ?? '';
+        $new_entry['link_title']  = $alert['link']['title'] ?? '';
+        $new_entry['link_url']    = $alert['link']['url'] ?? '';
+        $new_entry['link_target'] = $alert['link']['target'] ?? '';
         $new_entry['time']        = time();
+
+        error_log( var_export( $new_entry, true ) );
 
         // check if the link_url exists in the file already
         if ( ! str_contains( $csv_contents, $new_entry['link_url'] ) ) {
             // if not, then write it to the file
             fputcsv(
                 $csv_handle,
-                $new_entry,
-                CSV_SEPARATOR,
-                CSV_ENCLOSURE,
-                CSV_ESCAPE
+                $new_entry
             );
+            rewind( $csv_handle );
         }
     }
 };
@@ -102,7 +102,7 @@ function main() {
      * Read from the scraped files
      */
     $json_handle = fopen( JSON_FILE, 'r' );
-    $csv_handle  = fopen( CSV_FILE, 'c+' );
+    $csv_handle  = fopen( CSV_FILE, 'a+' );
 
     if ( false === $json_handle ) {
         error_log( 'error accessing scraped JSON' );
@@ -114,17 +114,11 @@ function main() {
         exit(2);
     }
 
-    if ( 0 === filesize( './alerts-log.csv' ) ) {
-        fputcsv(
-            $csv_handle,
-            return_csv_line(),
-            CSV_SEPARATOR,
-            CSV_ENCLOSURE,
-            CSV_ESCAPE
-        );
-    }
+    rewind( $csv_handle );
+    rewind( $json_handle );
 
     iterate( $json_handle, $csv_handle );
+    fclose( $csv_handle );
 }
 
 main();
