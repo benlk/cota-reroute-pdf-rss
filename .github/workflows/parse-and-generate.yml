@@ -17,6 +17,11 @@ jobs:
       - name: Fetch latest data from the API endpoint
         run: |-
           bash ./scraper.bash
+      - name: "Save files"
+        uses: actions/upload-artifact@v3
+        with:
+          name: acf-options.json
+          path: build/acf-options.json
       - name: Parse scrape and update JSON
         run: |-
           php ./parser.php
