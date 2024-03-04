@@ -9,10 +9,10 @@ jobs:
   Download-and-Make:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+      - run: echo "ℹ️ The job was automatically triggered by a ${{ github.event_name }} event."
       - name: Check out this repo
         uses: actions/checkout@v4
-      - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
+      - run: echo "ℹ️ The ${{ github.repository }} repository has been cloned to the runner."
       - run: mkdir -p build/
       - name: Fetch latest data from the API endpoint
         run: |-
@@ -24,12 +24,13 @@ jobs:
         run: |-
           php ./rss.php > rss.xml
       - name: "Save files"
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: acf-options.json
           path: build/acf-options.json
-      - name: "Preserve php errors"
-        uses: actions/upload-artifact@v3
+          if-no-files-found: error
+      - name: "🛑 Preserve php errors"
+        uses: actions/upload-artifact@v4
         if: failure()
         with:
           name: php-error.log
@@ -37,7 +38,7 @@ jobs:
             ./php-error.log
             ./alerts-log.csv
             ./build/*
-      - name: Commit and push if the data has changed
+      - name: "▶️ Commit and push if the data has changed"
         run: |-
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
