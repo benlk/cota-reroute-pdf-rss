@@ -1,10 +1,14 @@
-name: GitHub Actions Demo
-run-name: "Download Stuff; build the feed"
+name: "Download Source; Build the Feed"
+
 on:
   push:
   workflow_dispatch:
   schedule:
     - cron: '0 12 * * *' # every day at noon, in whatever timezone Github uses
+
+permissions:
+  contents: write
+
 jobs:
   Download-and-Make:
     runs-on: ubuntu-latest
