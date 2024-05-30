@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: '0 12 * * *' # every day at noon, in whatever timezone Github uses
+    - cron: '0 14 * * *' # every day at noon UTC plus two hours, since COTA publishes their stuff around 9 a.m. Eastern
 
 permissions:
   contents: write
