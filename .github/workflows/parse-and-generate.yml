@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: '0 14 * * *' # every day at noon UTC plus two hours, since COTA publishes their stuff around 9 a.m. Eastern
+    - cron: '0 2,14 * * *' # every day at noon UTC plus two hours, since COTA publishes their stuff around 9 a.m. Eastern. Also at 10 p.m. Eastern to catch evening updates before the morning commute.
 
 permissions:
   contents: write
