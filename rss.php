@@ -37,6 +37,8 @@ function escape( $string ) {
  */
 function iterate( $handle ) {
 	$iterator = 0;
+	$entries  = [];
+
 	while ( ( $data = fgetcsv( $handle, 1000 ) ) !== false ) {
 		$iterator++;
 		// skip over the header row.
@@ -70,6 +72,7 @@ function iterate( $handle ) {
 
 		$pubDate = date_format( DateTimeImmutable::createFromFormat( 'U', $data[5] ), DATE_RSS );
 
+		ob_start();
 		?>
 			<item>
 				<title><?php echo $title; ?></title>
@@ -79,9 +82,10 @@ function iterate( $handle ) {
 				<guid><?php echo $link . '#' . rawurlencode( $pubDate ); ?></guid>
 			</item>
 		<?php
+		$entries[] = trim( ob_get_clean() );
+	} // endwhile
 
-		echo "\n";
-	}
+	echo implode( "\n", array_reverse( $entries ) );
 }
 
 ?>

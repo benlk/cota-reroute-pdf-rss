@@ -82,17 +82,40 @@ function iterate( $json_handle, $csv_handle ) {
 
         error_log( var_export( $new_entry, true ) );
 
+        $check_value = generate_csv_line_for_checking( $new_entry );
+
         // check if the link_url exists in the file already
-        if ( ! str_contains( $csv_contents, $new_entry['link_url'] ) ) {
+        if ( ! str_contains( $csv_contents, $check_value ) ) {
             // if not, then write it to the file
             fputcsv(
                 $csv_handle,
                 $new_entry
             );
             rewind( $csv_handle );
+        } else {
+            error_log( "\n" );
+            error_log( "Item not added to CSV because it already exists:" );
+            error_log( var_export( $check_value, true ) );
         }
     }
 };
+
+/**
+ * Generate a line for the CSV, for checking purposes
+ *
+ * @link https://www.php.net/manual/en/function.fputcsv.php#74118
+ */
+function generate_csv_line_for_checking( $entry ) {
+    $csv = fopen('php://temp/maxmemory:'. (5*1024*1024), 'r+');
+
+    // this changes from one run to the next; we don't need to incorporate it in the check
+    unset( $entry['time'] );
+    fputcsv( $csv, $entry );
+    rewind( $csv );
+    $output = trim( stream_get_contents( $csv ) );
+
+    return $output;
+}
 
 /**
  * Main
