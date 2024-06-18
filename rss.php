@@ -76,7 +76,7 @@ function iterate( $handle ) {
 				<link><?php echo $link; ?></link>
 				<description><![CDATA[<?php echo $description; ?>]]></description>
 				<pubDate><?php echo $pubDate; ?></pubDate>
-				<guid><?php echo $link; ?></guid>
+				<guid><?php echo $link . '#' . rawurlencode( $pubDate ); ?></guid>
 			</item>
 		<?php
 
