@@ -2,539 +2,539 @@
 	<channel>
 		<title>Unofficial Central Ohio Transit Authority Alerts Feed</title>
 		<link>https://github.com/benlk/cota-reroute-pdf-rss</link>
-		<description>COTA alert messages scraped from a COTA API; parsed and formatted as RSS</description>
+		<description>COTA alert messages scraped from a COTA API; parsed and formatted as RSS. The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</description>
 		<language>en-us</language>
 		<atom:link href="https://raw.githubusercontent.com/benlk/cota-reroute-pdf-rss/main/rss.xml" rel="self" type="application/rss+xml"/>
 
 		<item>
 				<title>REROUTES: DEC. 5–6: IMPACTED LINES: 1, 2, 3, 5 &amp; 102</title>
-				<link>/reroutes/</link>
-				<description><![CDATA[<p><a href="/reroutes/">Learn More: /reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<link>https://www.cota.com/reroutes/</link>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">Learn More: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Sat, 06 Dec 2025 03:03:25 +0000</pubDate>
-				<guid>/reroutes/#Sat%2C%2006%20Dec%202025%2003%3A03%3A25%20%2B0000</guid>
+				<guid>https://www.cota.com/reroutes/#Sat%2C%2006%20Dec%202025%2003%3A03%3A25%20%2B0000</guid>
 			</item>
 <item>
 				<title>: Sunday Schedule for Thanksgiving, Thursday, Nov. 27 | COTA//Plus: South Side Zone Only | Customer Experience Center: Closed | Call Center: Closed</title>
-				<link></link>
-				<description><![CDATA[<p><a href="">: </a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<link>https://www.cota.com/reroutes/</link>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Tue, 25 Nov 2025 03:08:37 +0000</pubDate>
-				<guid>#Tue%2C%2025%20Nov%202025%2003%3A08%3A37%20%2B0000</guid>
+				<guid>https://www.cota.com/reroutes/#Tue%2C%2025%20Nov%202025%2003%3A08%3A37%20%2B0000</guid>
 			</item>
 <item>
 				<title>NOV. 17 Stops closed:  on S. High St. due to Construction.</title>
-				<link>/reroutes/</link>
-				<description><![CDATA[<p><a href="/reroutes/">Learn More: /reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<link>https://www.cota.com/reroutes/</link>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">Learn More: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Tue, 18 Nov 2025 03:06:30 +0000</pubDate>
-				<guid>/reroutes/#Tue%2C%2018%20Nov%202025%2003%3A06%3A30%20%2B0000</guid>
+				<guid>https://www.cota.com/reroutes/#Tue%2C%2018%20Nov%202025%2003%3A06%3A30%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES: NOV. 14: IMPACTED LINES: 1–12, 102 &amp; CMAX </title>
-				<link>/reroutes/</link>
-				<description><![CDATA[<p><a href="/reroutes/">Learn More: /reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<link>https://www.cota.com/reroutes/</link>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">Learn More: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Sat, 15 Nov 2025 03:00:55 +0000</pubDate>
-				<guid>/reroutes/#Sat%2C%2015%20Nov%202025%2003%3A00%3A55%20%2B0000</guid>
+				<guid>https://www.cota.com/reroutes/#Sat%2C%2015%20Nov%202025%2003%3A00%3A55%20%2B0000</guid>
 			</item>
 <item>
 				<title>: Real-time tracking is temporarily unavailable while we resolve a nationwide system outage.</title>
-				<link></link>
-				<description><![CDATA[<p><a href="">: </a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<link>https://www.cota.com/reroutes/</link>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Thu, 30 Oct 2025 03:05:26 +0000</pubDate>
-				<guid>#Thu%2C%2030%20Oct%202025%2003%3A05%3A26%20%2B0000</guid>
+				<guid>https://www.cota.com/reroutes/#Thu%2C%2030%20Oct%202025%2003%3A05%3A26%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: OCT. 24–26 | IMPACTED LINES: 1, 2, 5, 10, 12, 43, 101, 102, Zoo Bus</title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Sat, 25 Oct 2025 02:56:51 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Sat%2C%2025%20Oct%202025%2002%3A56%3A51%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: OCT. 17–19 | IMPACTED LINES: 1–12, 22, 31, 71, 73, 102, CMAX &amp; Zoo Bus</title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Fri, 17 Oct 2025 02:56:29 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Fri%2C%2017%20Oct%202025%2002%3A56%3A29%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: OCT. 11–12 | IMPACTED LINES: 1-5, 7-12, 102 &amp; ZOO BUS </title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Sat, 11 Oct 2025 02:47:14 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Sat%2C%2011%20Oct%202025%2002%3A47%3A14%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: OCT. 3–4 | IMPACTED LINES: 1–12, 22, 31, 102, CMAX &amp; ZOO BUS</title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Fri, 03 Oct 2025 02:51:36 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Fri%2C%2003%20Oct%202025%2002%3A51%3A36%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: Sept. 27 | GRANDVIEW HOP</title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Fri, 26 Sep 2025 14:10:36 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Fri%2C%2026%20Sep%202025%2014%3A10%3A36%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: SEPT. 20-21 | IMPACTED LINES: 3, 4, 6–12 &amp; ZOO BUS</title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Sat, 20 Sep 2025 02:47:52 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Sat%2C%2020%20Sep%202025%2002%3A47%3A52%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: Sept. 6 | HOPS ON HIGH &amp; OSU GAME</title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Sat, 06 Sep 2025 02:47:51 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Sat%2C%2006%20Sep%202025%2002%3A47%3A51%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: AUG. 30 | OSU VS. TEXAS HOME GAME</title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Sat, 30 Aug 2025 02:51:28 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Sat%2C%2030%20Aug%202025%2002%3A51%3A28%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: AUG. 23-24 | IMPACTED LINES: 1, 2, 5, 7, 31, 102, CMAX &amp; ZOO BUS</title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Fri, 22 Aug 2025 14:12:19 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Fri%2C%2022%20Aug%202025%2014%3A12%3A19%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: AUG. 15-17 | LINES: 1-12, 22, 31, 102, CMAX &amp; ZOO BUS </title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Fri, 15 Aug 2025 03:16:19 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Fri%2C%2015%20Aug%202025%2003%3A16%3A19%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: AUG. 9 | LINES: 1, 2, 4, 5, 8, 10, 11 &amp; 22 </title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Sat, 09 Aug 2025 03:14:57 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Sat%2C%2009%20Aug%202025%2003%3A14%3A57%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: AUG. 2 | PELOTONIA &amp; CITY OF GRACE BLOCK PARTY</title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Fri, 01 Aug 2025 14:15:26 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Fri%2C%2001%20Aug%202025%2014%3A15%3A26%20%2B0000</guid>
 			</item>
 <item>
 				<title>: Please plan ahead for Pelotonia events (Aug. 1–2), Gallery Hop (Aug. 2), and the City of Grace Block Party (Aug. 3). Expect reroutes and delays on impacted lines.</title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Thu, 31 Jul 2025 03:27:10 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Thu%2C%2031%20Jul%202025%2003%3A27%3A10%20%2B0000</guid>
 			</item>
 <item>
 				<title>BEAT THE HEAT: RIDE FREE,  JULY 29 | All fares waived during the heat advisory.</title>
 				<link>https://www.cota.com/blog/cota-announces-no-fares-for-tuesday-july-29-after-national-weather-service-issues-heat-advisory/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/blog/cota-announces-no-fares-for-tuesday-july-29-after-national-weather-service-issues-heat-advisory/">LEARN MORE: https://www.cota.com/blog/cota-announces-no-fares-for-tuesday-july-29-after-national-weather-service-issues-heat-advisory/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/blog/cota-announces-no-fares-for-tuesday-july-29-after-national-weather-service-issues-heat-advisory/">LEARN MORE: https://www.cota.com/blog/cota-announces-no-fares-for-tuesday-july-29-after-national-weather-service-issues-heat-advisory/</a></p>]]></description>
 				<pubDate>Tue, 29 Jul 2025 03:43:52 +0000</pubDate>
 				<guid>https://www.cota.com/blog/cota-announces-no-fares-for-tuesday-july-29-after-national-weather-service-issues-heat-advisory/#Tue%2C%2029%20Jul%202025%2003%3A43%3A52%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: JULY 26 | GRANDVIEW HOP</title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Fri, 25 Jul 2025 14:13:00 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Fri%2C%2025%20Jul%202025%2014%3A13%3A00%20%2B0000</guid>
 			</item>
 <item>
 				<title>DON’T SWEAT THE HEAT: RIDE FREE JULY 24 | All fares waived during the heat advisory</title>
 				<link>https://www.cota.com/blog/cota-announces-no-fares-for-thursday-july-24-after-national-weather-service-issues-heat-advisory/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/blog/cota-announces-no-fares-for-thursday-july-24-after-national-weather-service-issues-heat-advisory/">LEARN MORE: https://www.cota.com/blog/cota-announces-no-fares-for-thursday-july-24-after-national-weather-service-issues-heat-advisory/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/blog/cota-announces-no-fares-for-thursday-july-24-after-national-weather-service-issues-heat-advisory/">LEARN MORE: https://www.cota.com/blog/cota-announces-no-fares-for-thursday-july-24-after-national-weather-service-issues-heat-advisory/</a></p>]]></description>
 				<pubDate>Thu, 24 Jul 2025 03:23:52 +0000</pubDate>
 				<guid>https://www.cota.com/blog/cota-announces-no-fares-for-thursday-july-24-after-national-weather-service-issues-heat-advisory/#Thu%2C%2024%20Jul%202025%2003%3A23%3A52%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: JULY 18-20 | JAZZ &amp; RIB FEST </title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">Learn More: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">Learn More: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Fri, 18 Jul 2025 03:24:03 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Fri%2C%2018%20Jul%202025%2003%3A24%3A03%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: JULY 12 | DASH FOR DONATIONS AND PLAYSTREETS ON WHITTIER</title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">Learn More: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">Learn More: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Sat, 12 Jul 2025 03:20:33 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Sat%2C%2012%20Jul%202025%2003%3A20%3A33%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: JULY 3-4 | RED, WHITE &amp; BOOM! | 4TH OF JULY PARADES</title>
 				<link>https://cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://cota.com/reroutes/">Learn More: https://cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://cota.com/reroutes/">Learn More: https://cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Fri, 04 Jul 2025 03:13:27 +0000</pubDate>
 				<guid>https://cota.com/reroutes/#Fri%2C%2004%20Jul%202025%2003%3A13%3A27%20%2B0000</guid>
 			</item>
 <item>
 				<title>SERVICE ALERTS: June 27–29 Events May Impact Routes and Schedules | Grandview Hop &amp; Stonewall Drag Race</title>
-				<link></link>
-				<description><![CDATA[<p><a href="">: </a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<link>https://www.cota.com/reroutes/</link>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Sat, 28 Jun 2025 03:09:21 +0000</pubDate>
-				<guid>#Sat%2C%2028%20Jun%202025%2003%3A09%3A21%20%2B0000</guid>
+				<guid>https://www.cota.com/reroutes/#Sat%2C%2028%20Jun%202025%2003%3A09%3A21%20%2B0000</guid>
 			</item>
 <item>
 				<title>STAY COOL &amp; RIDE FREE: June 22-27 | All fares waived during the heat advisory</title>
 				<link>https://cota.com/blog/cota-board-of-trustees-authorizes-resolution-to-waive-all-transit-fares-during-extreme-temperatures/</link>
-				<description><![CDATA[<p><a href="https://cota.com/blog/cota-board-of-trustees-authorizes-resolution-to-waive-all-transit-fares-during-extreme-temperatures/">Learn More: https://cota.com/blog/cota-board-of-trustees-authorizes-resolution-to-waive-all-transit-fares-during-extreme-temperatures/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://cota.com/blog/cota-board-of-trustees-authorizes-resolution-to-waive-all-transit-fares-during-extreme-temperatures/">Learn More: https://cota.com/blog/cota-board-of-trustees-authorizes-resolution-to-waive-all-transit-fares-during-extreme-temperatures/</a></p>]]></description>
 				<pubDate>Thu, 26 Jun 2025 03:13:07 +0000</pubDate>
 				<guid>https://cota.com/blog/cota-board-of-trustees-authorizes-resolution-to-waive-all-transit-fares-during-extreme-temperatures/#Thu%2C%2026%20Jun%202025%2003%3A13%3A07%20%2B0000</guid>
 			</item>
 <item>
 				<title>STAY COOL &amp; RIDE FREE: June 22-25 | All fares waived during the heat advisory</title>
 				<link>https://cota.com/blog/cota-board-of-trustees-authorizes-resolution-to-waive-all-transit-fares-during-extreme-temperatures/</link>
-				<description><![CDATA[<p><a href="https://cota.com/blog/cota-board-of-trustees-authorizes-resolution-to-waive-all-transit-fares-during-extreme-temperatures/">Learn More: https://cota.com/blog/cota-board-of-trustees-authorizes-resolution-to-waive-all-transit-fares-during-extreme-temperatures/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://cota.com/blog/cota-board-of-trustees-authorizes-resolution-to-waive-all-transit-fares-during-extreme-temperatures/">Learn More: https://cota.com/blog/cota-board-of-trustees-authorizes-resolution-to-waive-all-transit-fares-during-extreme-temperatures/</a></p>]]></description>
 				<pubDate>Tue, 24 Jun 2025 03:13:44 +0000</pubDate>
 				<guid>https://cota.com/blog/cota-board-of-trustees-authorizes-resolution-to-waive-all-transit-fares-during-extreme-temperatures/#Tue%2C%2024%20Jun%202025%2003%3A13%3A44%20%2B0000</guid>
 			</item>
 <item>
 				<title>STAY COOL &amp; RIDE FREE: June 22-24 | All fares waived during the heat advisory</title>
 				<link>https://cota.com/blog/cota-board-of-trustees-authorizes-resolution-to-waive-all-transit-fares-during-extreme-temperatures/</link>
-				<description><![CDATA[<p><a href="https://cota.com/blog/cota-board-of-trustees-authorizes-resolution-to-waive-all-transit-fares-during-extreme-temperatures/">Learn More: https://cota.com/blog/cota-board-of-trustees-authorizes-resolution-to-waive-all-transit-fares-during-extreme-temperatures/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://cota.com/blog/cota-board-of-trustees-authorizes-resolution-to-waive-all-transit-fares-during-extreme-temperatures/">Learn More: https://cota.com/blog/cota-board-of-trustees-authorizes-resolution-to-waive-all-transit-fares-during-extreme-temperatures/</a></p>]]></description>
 				<pubDate>Sun, 22 Jun 2025 14:11:19 +0000</pubDate>
 				<guid>https://cota.com/blog/cota-board-of-trustees-authorizes-resolution-to-waive-all-transit-fares-during-extreme-temperatures/#Sun%2C%2022%20Jun%202025%2014%3A11%3A19%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: JUNE 19-21 | JUNETEENTH FESTIVALS &amp; PLAYSTREETS ON WHITTIER </title>
 				<link>https://author.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://author.cota.com/reroutes/">LEARN MORE: https://author.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://author.cota.com/reroutes/">LEARN MORE: https://author.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Thu, 19 Jun 2025 03:12:42 +0000</pubDate>
 				<guid>https://author.cota.com/reroutes/#Thu%2C%2019%20Jun%202025%2003%3A12%3A42%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: JUNE 14 | STONEWALL COLUMBUS PRIDE MARCH AND FESTIVAL</title>
 				<link>https://author.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://author.cota.com/reroutes/">LEARN MORE: https://author.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://author.cota.com/reroutes/">LEARN MORE: https://author.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Thu, 12 Jun 2025 03:11:00 +0000</pubDate>
 				<guid>https://author.cota.com/reroutes/#Thu%2C%2012%20Jun%202025%2003%3A11%3A00%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: JUNE 4-9 | COLUMBUS ARTS FESTIVAL </title>
 				<link>https://author.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://author.cota.com/reroutes/">LEARN MORE: https://author.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://author.cota.com/reroutes/">LEARN MORE: https://author.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Thu, 05 Jun 2025 03:11:12 +0000</pubDate>
 				<guid>https://author.cota.com/reroutes/#Thu%2C%2005%20Jun%202025%2003%3A11%3A12%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: JUNE 1 | COLUMBUS 10K</title>
 				<link>https://author.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://author.cota.com/reroutes/">LEARN MORE: https://author.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://author.cota.com/reroutes/">LEARN MORE: https://author.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Sat, 31 May 2025 03:05:19 +0000</pubDate>
 				<guid>https://author.cota.com/reroutes/#Sat%2C%2031%20May%202025%2003%3A05%3A19%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD:  | MAY 17-18 | PLAYSTREETS ON WHITTIER, RACE FOR THE CURE &amp; GIRLS ON THE RUN </title>
-				<link>/reroutes/</link>
-				<description><![CDATA[<p><a href="/reroutes/">LEARN MORE: /reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<link>https://www.cota.com/reroutes/</link>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Fri, 16 May 2025 03:07:30 +0000</pubDate>
-				<guid>/reroutes/#Fri%2C%2016%20May%202025%2003%3A07%3A30%20%2B0000</guid>
+				<guid>https://www.cota.com/reroutes/#Fri%2C%2016%20May%202025%2003%3A07%3A30%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: MAY 10 | HOPS ON HIGH </title>
 				<link>https://author.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://author.cota.com/reroutes/">LEARN MORE: https://author.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://author.cota.com/reroutes/">LEARN MORE: https://author.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Sat, 10 May 2025 02:59:00 +0000</pubDate>
 				<guid>https://author.cota.com/reroutes/#Sat%2C%2010%20May%202025%2002%3A59%3A00%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: MAY 3 | ABATE AWARENESS RALLY </title>
 				<link>https://author.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://author.cota.com/reroutes/">LEARN MORE: https://author.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://author.cota.com/reroutes/">LEARN MORE: https://author.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Sat, 03 May 2025 02:58:45 +0000</pubDate>
 				<guid>https://author.cota.com/reroutes/#Sat%2C%2003%20May%202025%2002%3A58%3A45%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: APRIL 25-27 | CAP CITY HALF MARATHON &amp; COLUMBUS GREAT STRIDES </title>
 				<link>https://author.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://author.cota.com/reroutes/">LEARN MORE: https://author.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://author.cota.com/reroutes/">LEARN MORE: https://author.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Wed, 23 Apr 2025 02:59:26 +0000</pubDate>
 				<guid>https://author.cota.com/reroutes/#Wed%2C%2023%20Apr%202025%2002%3A59%3A26%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: APRIL 13 | OHIO STATE 4 MILER</title>
 				<link>https://author.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://author.cota.com/reroutes/">LEARN MORE: https://author.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://author.cota.com/reroutes/">LEARN MORE: https://author.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Sat, 12 Apr 2025 02:53:47 +0000</pubDate>
 				<guid>https://author.cota.com/reroutes/#Sat%2C%2012%20Apr%202025%2002%3A53%3A47%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: MARCH 17 | SHAMROCK PARADE </title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Sat, 15 Mar 2025 02:46:33 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Sat%2C%2015%20Mar%202025%2002%3A46%3A33%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: MARCH 2 | ARNOLD 5K PUMP &amp; RUN</title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Fri, 28 Feb 2025 02:48:08 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Fri%2C%2028%20Feb%202025%2002%3A48%3A08%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: JAN. 20 | MLK DAY REROUTES</title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Sat, 18 Jan 2025 02:35:30 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Sat%2C%2018%20Jan%202025%2002%3A35%3A30%20%2B0000</guid>
 			</item>
 <item>
 				<title>WEATHER ALERT: All fares are suspended today for all COTA services due to the Level 2 Snow Emergency declared by Franklin County. </title>
 				<link>https://cota.com/blog/cota-announces-no-fares-monday-due-to-level-2-snow-emergency-customer-experience-center-closed/</link>
-				<description><![CDATA[<p><a href="https://cota.com/blog/cota-announces-no-fares-monday-due-to-level-2-snow-emergency-customer-experience-center-closed/">LEARN MORE: https://cota.com/blog/cota-announces-no-fares-monday-due-to-level-2-snow-emergency-customer-experience-center-closed/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://cota.com/blog/cota-announces-no-fares-monday-due-to-level-2-snow-emergency-customer-experience-center-closed/">LEARN MORE: https://cota.com/blog/cota-announces-no-fares-monday-due-to-level-2-snow-emergency-customer-experience-center-closed/</a></p>]]></description>
 				<pubDate>Tue, 07 Jan 2025 02:44:25 +0000</pubDate>
 				<guid>https://cota.com/blog/cota-announces-no-fares-monday-due-to-level-2-snow-emergency-customer-experience-center-closed/#Tue%2C%2007%20Jan%202025%2002%3A44%3A25%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: DEC. 7-8 | HOPS ON HIGH &amp; OUR LADY OF GUADALUPE </title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Sat, 07 Dec 2024 14:09:54 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Sat%2C%2007%20Dec%202024%2014%3A09%3A54%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: DEC. 7 | HOPS ON HIGH</title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Thu, 05 Dec 2024 02:58:35 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Thu%2C%2005%20Dec%202024%2002%3A58%3A35%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: NOV. 17 | HOT CHOCOLATE RUN </title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Fri, 15 Nov 2024 14:11:03 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Fri%2C%2015%20Nov%202024%2014%3A11%3A03%20%2B0000</guid>
 			</item>
 <item>
 				<title>HALLOWEEN: It's Spooky time!!</title>
 				<link>http://www.cota.com/reroutes</link>
-				<description><![CDATA[<p><a href="http://www.cota.com/reroutes">LEARN MORE: http://www.cota.com/reroutes</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="http://www.cota.com/reroutes">LEARN MORE: http://www.cota.com/reroutes</a></p>]]></description>
 				<pubDate>Fri, 01 Nov 2024 02:55:08 +0000</pubDate>
 				<guid>http://www.cota.com/reroutes#Fri%2C%2001%20Nov%202024%2002%3A55%3A08%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: OCT. 25-28 | HIGHBALL HALLOWEEN, GOURDY’S PUMPKIN RUN &amp; MAKING STRIDES AGAINST BREAST CANCER</title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Sat, 26 Oct 2024 02:41:11 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Sat%2C%2026%20Oct%202024%2002%3A41%3A11%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: OCT. 26-27 | HIGHBALL HALLOWEEN, GOURDY’S PUMPKIN RUN &amp; MAKING STRIDES AGAINST BREAST CANCER</title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Fri, 25 Oct 2024 02:46:41 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Fri%2C%2025%20Oct%202024%2002%3A46%3A41%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: OCT. 19-20 | NATIONWIDE CHILDREN’S HOSPITAL COLUMBUS MARATHON</title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Thu, 17 Oct 2024 02:44:20 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Thu%2C%2017%20Oct%202024%2002%3A44%3A20%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: OCT. 12-13 | HIGH SPIRITS &amp; ITALIAN FESTIVAL </title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Sat, 12 Oct 2024 02:40:41 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Sat%2C%2012%20Oct%202024%2002%3A40%3A41%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: OCT. 4 | MARCH FOR LIFE </title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Sat, 05 Oct 2024 02:42:02 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Sat%2C%2005%20Oct%202024%2002%3A42%3A02%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: SEPT. 18 | LONG STREET BRIDGE 10-YEAR CELEBRATION</title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Mon, 16 Sep 2024 14:10:15 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Mon%2C%2016%20Sep%202024%2014%3A10%3A15%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: SEPT. 15 | CLIPPERS 5K</title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Sat, 14 Sep 2024 02:37:17 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Sat%2C%2014%20Sep%202024%2002%3A37%3A17%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: SEPT. 7 | HOPS ON HIGH &amp; OSU HOME GAME</title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Fri, 06 Sep 2024 14:09:33 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Fri%2C%2006%20Sep%202024%2014%3A09%3A33%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: AUG. 31 | OSU HOME GAME</title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Sat, 31 Aug 2024 02:36:07 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Sat%2C%2031%20Aug%202024%2002%3A36%3A07%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: Aug. 17 | 100 Mothers March &amp; Heart Walk</title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Wed, 14 Aug 2024 02:32:15 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Wed%2C%2014%20Aug%202024%2002%3A32%3A15%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: AUG. 10 | AFRICAN AMERICAN MALE WELLNESS WALK </title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Fri, 09 Aug 2024 02:32:44 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Fri%2C%2009%20Aug%202024%2002%3A32%3A44%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: 2024 AA Wellness Day</title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Mon, 05 Aug 2024 14:09:31 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Mon%2C%2005%20Aug%202024%2014%3A09%3A31%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: Pelotonia 2024</title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Thu, 01 Aug 2024 02:35:29 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Thu%2C%2001%20Aug%202024%2002%3A35%3A29%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: JULY 19-21 | JAZZ &amp; RIB FEST</title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Thu, 18 Jul 2024 14:09:22 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Thu%2C%2018%20Jul%202024%2014%3A09%3A22%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: JULY 13 | DASH FOR DONATION</title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Sat, 13 Jul 2024 02:27:53 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Sat%2C%2013%20Jul%202024%2002%3A27%3A53%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: JULY 4 | INDEPENDENCE DAY CELEBRATIONS</title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Wed, 03 Jul 2024 14:09:59 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Wed%2C%2003%20Jul%202024%2014%3A09%3A59%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: JUNE 29 | FREEDOM 5K</title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Thu, 27 Jun 2024 02:27:32 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Thu%2C%2027%20Jun%202024%2002%3A27%3A32%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: JUNE 15 | STONEWALL COLUMBUS PRIDE MARCH AND FESTIVAL AND PLAYSTREETS ON WHITTIER</title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Wed, 12 Jun 2024 02:28:19 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Wed%2C%2012%20Jun%202024%2002%3A28%3A19%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: JUNE 5-9 | COLUMBUS ARTS FEST, HEALTHTREE MOVES FOR MYELOMA 5K AND 1M AND THE AVENUE FOR ALL FESTIVAL </title>
 				<link>https://www.cota.com/reroutes</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes">LEARN MORE: https://www.cota.com/reroutes</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes">LEARN MORE: https://www.cota.com/reroutes</a></p>]]></description>
 				<pubDate>Wed, 05 Jun 2024 02:26:09 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes#Wed%2C%2005%20Jun%202024%2002%3A26%3A09%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: JUNE 1-2 | BRAIN TUMOR 5K, HOPS ON HIGH &amp; COLUMBUS 10K</title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Sat, 01 Jun 2024 02:28:35 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Sat%2C%2001%20Jun%202024%2002%3A28%3A35%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: JUNE 1-2 | BRAIN TUMOR 5K &amp; COLUMBUS 10K</title>
 				<link>https://www.cota.com/reroutes/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/">LEARN MORE: https://www.cota.com/reroutes/</a></p>]]></description>
 				<pubDate>Thu, 30 May 2024 18:02:40 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/#Thu%2C%2030%20May%202024%2018%3A02%3A40%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: MAY 18-19 | SUSAN G. KOMEN RACE FOR THE CURE &amp; GIRLS ON THE RUN 5K</title>
 				<link>https://www.cota.com/blog/major-reroutes-and-delays-expected-for-susan-g-komen-race-for-the-cure-and-girls-on-the-run-5k-this-weekend/</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/blog/major-reroutes-and-delays-expected-for-susan-g-komen-race-for-the-cure-and-girls-on-the-run-5k-this-weekend/">LEARN MORE: https://www.cota.com/blog/major-reroutes-and-delays-expected-for-susan-g-komen-race-for-the-cure-and-girls-on-the-run-5k-this-weekend/</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/blog/major-reroutes-and-delays-expected-for-susan-g-komen-race-for-the-cure-and-girls-on-the-run-5k-this-weekend/">LEARN MORE: https://www.cota.com/blog/major-reroutes-and-delays-expected-for-susan-g-komen-race-for-the-cure-and-girls-on-the-run-5k-this-weekend/</a></p>]]></description>
 				<pubDate>Fri, 17 May 2024 12:25:24 +0000</pubDate>
 				<guid>https://www.cota.com/blog/major-reroutes-and-delays-expected-for-susan-g-komen-race-for-the-cure-and-girls-on-the-run-5k-this-weekend/#Fri%2C%2017%20May%202024%2012%3A25%3A24%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: MAY 18-19 | SUSAN G. KOMEN RACE FOR THE CURE &amp; GIRLS ON THE RUN 5K</title>
 				<link>https://www.cota.com/reroutes/cota-reroutes-komen-girls-run-240518.pdf</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/cota-reroutes-komen-girls-run-240518.pdf">LEARN MORE: https://www.cota.com/reroutes/cota-reroutes-komen-girls-run-240518.pdf</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/cota-reroutes-komen-girls-run-240518.pdf">LEARN MORE: https://www.cota.com/reroutes/cota-reroutes-komen-girls-run-240518.pdf</a></p>]]></description>
 				<pubDate>Wed, 15 May 2024 12:27:47 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/cota-reroutes-komen-girls-run-240518.pdf#Wed%2C%2015%20May%202024%2012%3A27%3A47%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: MAY 4 | ON OUR SLEEVES 5K</title>
 				<link>https://www.cota.com/reroutes/cota-reroute-on-our-sleeves-5k-240504.pdf</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/cota-reroute-on-our-sleeves-5k-240504.pdf">LEARN MORE: https://www.cota.com/reroutes/cota-reroute-on-our-sleeves-5k-240504.pdf</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/cota-reroute-on-our-sleeves-5k-240504.pdf">LEARN MORE: https://www.cota.com/reroutes/cota-reroute-on-our-sleeves-5k-240504.pdf</a></p>]]></description>
 				<pubDate>Sat, 04 May 2024 12:22:40 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/cota-reroute-on-our-sleeves-5k-240504.pdf#Sat%2C%2004%20May%202024%2012%3A22%3A40%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: APRIL 26-27 | CAP CITY HALF MARATHON</title>
 				<link>https://www.cota.com/reroutes/cota-reroutes-cap-city-half-marathon-240426.pdf</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/cota-reroutes-cap-city-half-marathon-240426.pdf">LEARN MORE: https://www.cota.com/reroutes/cota-reroutes-cap-city-half-marathon-240426.pdf</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/cota-reroutes-cap-city-half-marathon-240426.pdf">LEARN MORE: https://www.cota.com/reroutes/cota-reroutes-cap-city-half-marathon-240426.pdf</a></p>]]></description>
 				<pubDate>Wed, 24 Apr 2024 12:29:06 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/cota-reroutes-cap-city-half-marathon-240426.pdf#Wed%2C%2024%20Apr%202024%2012%3A29%3A06%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: April 13-14 | Ohio State Spring Game &amp; 4 Miler</title>
 				<link>https://author.cota.com/wp-content/uploads/2024/04/cota-reroutes-osu-game-day-4-miler-240413.pdf</link>
-				<description><![CDATA[<p><a href="https://author.cota.com/wp-content/uploads/2024/04/cota-reroutes-osu-game-day-4-miler-240413.pdf">LEARN MORE: https://author.cota.com/wp-content/uploads/2024/04/cota-reroutes-osu-game-day-4-miler-240413.pdf</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://author.cota.com/wp-content/uploads/2024/04/cota-reroutes-osu-game-day-4-miler-240413.pdf">LEARN MORE: https://author.cota.com/wp-content/uploads/2024/04/cota-reroutes-osu-game-day-4-miler-240413.pdf</a></p>]]></description>
 				<pubDate>Fri, 12 Apr 2024 12:24:07 +0000</pubDate>
 				<guid>https://author.cota.com/wp-content/uploads/2024/04/cota-reroutes-osu-game-day-4-miler-240413.pdf#Fri%2C%2012%20Apr%202024%2012%3A24%3A07%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: March 17 | Shamrock Parade</title>
 				<link>https://www.cota.com/reroutes/cota-reroutes-shamrock-parade-240317.pdf</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/cota-reroutes-shamrock-parade-240317.pdf">LEARN MORE: https://www.cota.com/reroutes/cota-reroutes-shamrock-parade-240317.pdf</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/cota-reroutes-shamrock-parade-240317.pdf">LEARN MORE: https://www.cota.com/reroutes/cota-reroutes-shamrock-parade-240317.pdf</a></p>]]></description>
 				<pubDate>Fri, 15 Mar 2024 12:23:12 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/cota-reroutes-shamrock-parade-240317.pdf#Fri%2C%2015%20Mar%202024%2012%3A23%3A12%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: March 9 | Dublin St. Patrick's Day Parade</title>
 				<link>https://www.cota.com/reroutes/cota-reroutes-dublin-st-patricks-parade-240309.pdf</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/cota-reroutes-dublin-st-patricks-parade-240309.pdf">LEARN MORE: https://www.cota.com/reroutes/cota-reroutes-dublin-st-patricks-parade-240309.pdf</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/cota-reroutes-dublin-st-patricks-parade-240309.pdf">LEARN MORE: https://www.cota.com/reroutes/cota-reroutes-dublin-st-patricks-parade-240309.pdf</a></p>]]></description>
 				<pubDate>Mon, 11 Mar 2024 19:14:12 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/cota-reroutes-dublin-st-patricks-parade-240309.pdf#Mon%2C%2011%20Mar%202024%2019%3A14%3A12%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: Feb. 11 | 5th Line 5K</title>
 				<link>https://www.cota.com/reroutes/cota-reroutes-5th-line-5k-240211.pdf</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/cota-reroutes-5th-line-5k-240211.pdf">LEARN MORE: https://www.cota.com/reroutes/cota-reroutes-5th-line-5k-240211.pdf</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/cota-reroutes-5th-line-5k-240211.pdf">LEARN MORE: https://www.cota.com/reroutes/cota-reroutes-5th-line-5k-240211.pdf</a></p>]]></description>
 				<pubDate>Mon, 12 Feb 2024 15:38:34 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/cota-reroutes-5th-line-5k-240211.pdf#Mon%2C%2012%20Feb%202024%2015%3A38%3A34%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: Dec. 12 | Columbus Crew Parade</title>
 				<link>https://www.cota.com/reroutes/cota-reroutes-crew-parade-231212.pdf</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/cota-reroutes-crew-parade-231212.pdf">LEARN MORE: https://www.cota.com/reroutes/cota-reroutes-crew-parade-231212.pdf</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/cota-reroutes-crew-parade-231212.pdf">LEARN MORE: https://www.cota.com/reroutes/cota-reroutes-crew-parade-231212.pdf</a></p>]]></description>
 				<pubDate>Sat, 02 Dec 2023 00:59:08 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/cota-reroutes-crew-parade-231212.pdf#Sat%2C%2002%20Dec%202023%2000%3A59%3A08%20%2B0000</guid>
 			</item>
 <item>
 				<title>REROUTES AHEAD: Dec. 2 | Holiday Hop</title>
 				<link>https://www.cota.com/reroutes/cota-reroutes-holiday-hop-231202.pdf</link>
-				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/cota-reroutes-holiday-hop-231202.pdf">LEARN MORE: https://www.cota.com/reroutes/cota-reroutes-holiday-hop-231202.pdf</a></p><p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>]]></description>
+				<description><![CDATA[<p><a href="https://www.cota.com/reroutes/cota-reroutes-holiday-hop-231202.pdf">LEARN MORE: https://www.cota.com/reroutes/cota-reroutes-holiday-hop-231202.pdf</a></p>]]></description>
 				<pubDate>Sat, 02 Dec 2023 00:59:07 +0000</pubDate>
 				<guid>https://www.cota.com/reroutes/cota-reroutes-holiday-hop-231202.pdf#Sat%2C%2002%20Dec%202023%2000%3A59%3A07%20%2B0000</guid>
 			</item>	</channel>
