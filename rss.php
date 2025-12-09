@@ -61,14 +61,20 @@ function iterate( $handle ) {
 			$data[1] ?? ''
 		) );
 		$link  = escape( $data[3] ?? '' );
+		// Hasty assumption for https://github.com/benlk/cota-reroute-pdf-rss/issues/15
+		if ( str_starts_with( $link, '/' ) ) {
+			$link = 'https://www.cota.com' . $link;
+		}
+		if ( empty( $link ) ) {
+			$link = 'https://www.cota.com/reroutes/';
+		}
 
 		$description  = '';
 		$description .= sprintf(
 			'<p><a href="%1$s">%2$s: %1$s</a></p>',
-			$data[3],
+			$link,
 			$data[2]
 		);
-		$description .= '<p>The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</p>';
 
 		$pubDate = date_format( DateTimeImmutable::createFromFormat( 'U', $data[5] ), DATE_RSS );
 
