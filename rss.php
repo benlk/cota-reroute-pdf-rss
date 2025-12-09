@@ -99,7 +99,7 @@ function iterate( $handle ) {
 	<channel>
 		<title>Unofficial Central Ohio Transit Authority Alerts Feed</title>
 		<link>https://github.com/benlk/cota-reroute-pdf-rss</link>
-		<description>COTA alert messages scraped from a COTA API; parsed and formatted as RSS</description>
+		<description>COTA alert messages scraped from a COTA API; parsed and formatted as RSS. The publication date on this feed reflects the date that the item was scraped from cota.com, not the date that the item was published or pulled down.</description>
 		<language>en-us</language>
 		<atom:link href="https://raw.githubusercontent.com/benlk/cota-reroute-pdf-rss/main/rss.xml" rel="self" type="application/rss+xml"/>
 
